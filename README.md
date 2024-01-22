@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently graduated from **Pijar Camp Fullstack Web & Mobile Developer Batch 14**
 
-- 👨‍💻 All of my projects are available at [https://ramdlanfaqih.github.io/portofolio-web/#portofolio](https://ramdlanfaqih.github.io/portofolio-web/#portofolio)
+- 👨‍💻 All of my projects are available at [My Web Portofolio](https://ramdlanfaqih.github.io/portofolio-web/#portofolio)
 
 - 📫 How to reach me **ramfaqih@gmail.com**
 
