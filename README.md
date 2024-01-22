@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ramfaqih@gmail.com**
 
-- 📄 More about my profile [https://drive.google.com/file/d/1imhDRVP_nqTBMdC8ByhxwbN6O05aPMSr/view?usp=sharing](https://drive.google.com/file/d/1imhDRVP_nqTBMdC8ByhxwbN6O05aPMSr/view?usp=sharing)
+- 📄 More about my profile [My CV](https://drive.google.com/file/d/1imhDRVP_nqTBMdC8ByhxwbN6O05aPMSr/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
