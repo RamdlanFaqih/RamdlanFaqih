@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Ramdlan Faqih</h1>
 <h3>Tech Enthusiast - Web Developer - Mobile Developer</h3>
 
-- 🌱 I’m currently graduated from **Pijar Camp Fullstack Web & Mobile Developer Batch 14**
-
-- 👨‍💻 All of my projects are available at [My Web Portofolio](https://ramdlanfaqih.github.io/portofolio-web)
+- 👨‍💻 All of my projects are available at [My Web Portofolio](https://ramfaq.vercel.app/)
 
 - 📫 How to reach me **ramfaqih@gmail.com**
 
